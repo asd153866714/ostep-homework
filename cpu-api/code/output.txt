@@ -1,0 +1,1 @@
+ouput message after close(STDOUT_FILENO)
